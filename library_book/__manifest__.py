@@ -9,8 +9,6 @@
     'data': [
         'security/ir.model.access.csv',
         'views/book_view.xml',
-    ],
-    'demo': [
         'data/demo_data.xml',
     ],
     'installable': True,
