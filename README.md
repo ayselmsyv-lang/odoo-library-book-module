@@ -29,6 +29,16 @@ The module includes demo book records, mainly based on books by:
 - Arthur Conan Doyle
 - Jules Verne
 
+## Troubleshooting / Issues I Solved
+
+ - PostgreSQL connection issue
+ - pgAdmin4.db migration problem
+- addons_path misconfiguration
+- database initialization issue
+- pkg_resources / dependency problem
+- module detected but uninstallable
+- practice_db was not initialized as an Odoo database
+
 ## Project Structure
 
 ```bash
@@ -44,3 +54,4 @@ library_book/
 │   └── ir.model.access.csv
 └── data/
     └── book_demo.xml
+
