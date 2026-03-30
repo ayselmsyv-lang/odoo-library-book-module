@@ -1,4 +1,6 @@
 # Odoo Library Book Module
+<img width="1920" height="998" alt="image" src="https://github.com/user-attachments/assets/3c8855f4-d162-47b3-84cd-cbac18dc82b3" />
+
 
 A simple custom Odoo module for managing library books.
 
@@ -21,6 +23,8 @@ This module was created as part of my internship task to demonstrate my understa
 ## Module Purpose
 
 The goal of this module is to provide a basic library book management interface in Odoo and show how a simple custom module can be built and installed.
+<img width="1325" height="497" alt="image" src="https://github.com/user-attachments/assets/e2799f12-f768-4a49-8e9a-0177afa1e880" />
+
 
 ## Demo Data
 
