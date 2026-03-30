@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+        <record id="book_1" model="library.book">
+            <field name="title">Sherlock Holmes</field>
+            <field name="author">Arthur Conan Doyle</field>
+            <field name="category">Detective</field>
+            <field name="book_id">1</field>
+            <field name="available">True</field>
+        </record>
+
+        <record id="book_2" model="library.book">
+            <field name="title">A Study in Scarlet</field>
+            <field name="author">Arthur Conan Doyle</field>
+            <field name="category">Detective</field>
+            <field name="book_id">2</field>
+            <field name="available">True</field>
+        </record>
+
+        <record id="book_3" model="library.book">
+            <field name="title">The Sign of the Four</field>
+            <field name="author">Arthur Conan Doyle</field>
+            <field name="category">Detective</field>
+            <field name="book_id">3</field>
+            <field name="available">False</field>
+        </record>
+
+        <record id="book_4" model="library.book">
+            <field name="title">The Hound of the Baskervilles</field>
+            <field name="author">Arthur Conan Doyle</field>
+            <field name="category">Detective</field>
+            <field name="book_id">4</field>
+            <field name="available">True</field>
+        </record>
+
+        <record id="book_5" model="library.book">
+            <field name="title">The Adventures of Sherlock Holmes</field>
+            <field name="author">Arthur Conan Doyle</field>
+            <field name="category">Detective</field>
+            <field name="book_id">5</field>
+            <field name="available">True</field>
+        </record>
+
+        <record id="book_6" model="library.book">
+            <field name="title">The Memoirs of Sherlock Holmes</field>
+            <field name="author">Arthur Conan Doyle</field>
+            <field name="category">Detective</field>
+            <field name="book_id">6</field>
+            <field name="available">False</field>
+        </record>
+
+        <record id="book_7" model="library.book">
+            <field name="title">The Return of Sherlock Holmes</field>
+            <field name="author">Arthur Conan Doyle</field>
+            <field name="category">Detective</field>
+            <field name="book_id">7</field>
+            <field name="available">True</field>
+        </record>
+
+        <record id="book_8" model="library.book">
+            <field name="title">Twenty Thousand Leagues Under the Sea</field>
+            <field name="author">Jules Verne</field>
+            <field name="category">Science Fiction</field>
+            <field name="book_id">8</field>
+            <field name="available">True</field>
+        </record>
+
+        <record id="book_9" model="library.book">
+            <field name="title">Journey to the Center of the Earth</field>
+            <field name="author">Jules Verne</field>
+            <field name="category">Adventure</field>
+            <field name="book_id">9</field>
+            <field name="available">False</field>
+        </record>
+
+        <record id="book_10" model="library.book">
+            <field name="title">Around the World in Eighty Days</field>
+            <field name="author">Jules Verne</field>
+            <field name="category">Adventure</field>
+            <field name="book_id">10</field>
+            <field name="available">True</field>
+        </record>
+
+        <record id="book_11" model="library.book">
+            <field name="title">The Mysterious Island</field>
+            <field name="author">Jules Verne</field>
+            <field name="category">Adventure</field>
+            <field name="book_id">11</field>
+            <field name="available">True</field>
+        </record>
+
+        <record id="book_12" model="library.book">
+            <field name="title">From the Earth to the Moon</field>
+            <field name="author">Jules Verne</field>
+            <field name="category">Science Fiction</field>
+            <field name="book_id">12</field>
+            <field name="available">False</field>
+        </record>
+
+        <record id="book_13" model="library.book">
+            <field name="title">Five Weeks in a Balloon</field>
+            <field name="author">Jules Verne</field>
+            <field name="category">Adventure</field>
+            <field name="book_id">13</field>
+            <field name="available">True</field>
+        </record>
+
+        <record id="book_14" model="library.book">
+            <field name="title">The Children of Captain Grant</field>
+            <field name="author">Jules Verne</field>
+            <field name="category">Adventure</field>
+            <field name="book_id">14</field>
+            <field name="available">True</field>
+        </record>
+
+        <record id="book_15" model="library.book">
+            <field name="title">The Black Arrow</field>
+            <field name="author">Robert Louis Stevenson</field>
+            <field name="category">Historical Adventure</field>
+            <field name="book_id">15</field>
+            <field name="available">True</field>
+        </record>
+</odoo>
